@@ -51,6 +51,7 @@ public class C08_Hastane {
         System.out.println(per1.perIsmi);
 
 
+
         C08_Hastane per3 = new C08_Hastane();
 
         System.out.println(per1.perIsmi); // Cansu
