@@ -39,7 +39,7 @@ public class C08_Hastane {
         System.out.println(per2.perTel);
 
         per2.perIsmi = "Burak";
-        per2.perTel = "452178";
+        per2.perTel = "452177";
         per2.perAdresi = "Çankaya";
 
 

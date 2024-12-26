@@ -15,12 +15,10 @@ public class C07_Scope_ClassLevelVariables {
     amaaa static method'lardan direkt KULLANILMAZLAR, obje olusturup kullanmamiz gerekir
 
 
-
     AMMAA direk kullanılmasi static keyword'e baglıdır
 
     - static variable'lar
      */
-
 
     public String str = "Java candir";
     static String isim;
