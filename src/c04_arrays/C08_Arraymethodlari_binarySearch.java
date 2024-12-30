@@ -47,6 +47,7 @@ public class C08_Arraymethodlari_binarySearch {
         System.out.println(Arrays.binarySearch(sayilar, 7));
 
 
+
         //// Olmayan bir element arandiginda olsaydi bulunacagı SIRAMALYI - olarak verir
         /// index kullanilsaydi -0 diyemeyecegimiz icin index degil SIRALAMAYI VERİR
 

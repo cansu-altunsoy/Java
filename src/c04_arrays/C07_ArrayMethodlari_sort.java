@@ -12,6 +12,7 @@ public class C07_ArrayMethodlari_sort {
 
          */
 
+
         String[] isimler = {"Metin", "mete", "Mikail", "Nevzat", "Yasar", "Yakup", "Yaman"};
 
         //array'i natural order'a gore duzenleyin (dogal siralama)

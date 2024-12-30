@@ -21,6 +21,7 @@ public class C06_ArrayElemanEklemeMEthodu {
     }
 
 
+
     public static String[] arrayElementEkle(String[] eskiArray, String eklenecekElement) {
 
         // 1. adim yeni array olustur
