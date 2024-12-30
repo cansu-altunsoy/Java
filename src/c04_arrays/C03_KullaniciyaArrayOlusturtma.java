@@ -1,4 +1,4 @@
-package c04;
+package c04_arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package c04;
+package c04_arrays;
 
 public class C01_ElemenArama {
     public static void main(String[] args) {

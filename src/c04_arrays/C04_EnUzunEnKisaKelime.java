@@ -1,4 +1,4 @@
-package c04;
+package c04_arrays;
 
 public class C04_EnUzunEnKisaKelime {
     public static void main(String[] args) {

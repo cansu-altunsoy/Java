@@ -1,7 +1,6 @@
-package c04;
+package c04_arrays;
 
 import c03_scope_arrays.C07_TumElemnetleriArttirma;
-import day14_scope_arrays.C07_TumElemnetleriArttirma;
 
 import java.util.Arrays;
 
