@@ -5,7 +5,9 @@ public class C07_EnUzunKelime {
     public static void main(String[] args) {
 
 
+
         String[][] arr = {{"Ali", "okula", "git"}, {"Merhaba", "arkadaslar"}, {"Bu", "is", "olacak"}};
+
 
 
         // iki katli array'deki en uzun kelimeyi yazdirin
