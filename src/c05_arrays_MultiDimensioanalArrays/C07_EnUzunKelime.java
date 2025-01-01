@@ -29,6 +29,5 @@ public class C07_EnUzunKelime {
         }
         System.out.println(enUzunKelime);
 
-
     }
 }

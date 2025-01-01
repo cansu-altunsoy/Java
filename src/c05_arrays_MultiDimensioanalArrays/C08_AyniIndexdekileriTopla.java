@@ -15,6 +15,7 @@ public class C08_AyniIndexdekileriTopla {
         //     output:                       [5, 7, 11]
 
 
+
         int[][] arr = {{3, 4, 5}, {2, 3, 6, 7}};
 
         //ortak index sayisini bulalim, ortak index sayisi uzun olmayan  inner array'in length'ine esittir
