@@ -9,6 +9,7 @@ public class C06_SonElementlerinToplami {
         int[][] arr = {{2, 3, 7}, {4, 5, 2, 3,}, {8, 9, 3, 5, 7}, {2, 6, 8, 5}};
 
 
+
         //Tum elementleri elden geçirecek miyiz?
 
         int sonElemanlarinToplami = 0;
