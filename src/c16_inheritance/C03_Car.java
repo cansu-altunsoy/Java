@@ -1,4 +1,4 @@
-package c16;
+package c16_inheritance;
 
 public class C03_Car {
 

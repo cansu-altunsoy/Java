@@ -1,4 +1,4 @@
-package c16;
+package c16_inheritance;
 
 import c14_encapsulation_inheritance.C09_Toyota;
 
