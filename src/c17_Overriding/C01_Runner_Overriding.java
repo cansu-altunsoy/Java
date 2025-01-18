@@ -48,7 +48,7 @@ public class C01_Runner_Overriding {
         kartal3.beslenme(); // A ucarlar
         kartal3.hareket(); //  k akciger
         kartal3.solunum();
-       //kartal3.gaga();
+        //kartal3.gaga();
         //kartal3.kanat();
         kartal3.omur();
         //kartal3.pence();
@@ -64,7 +64,6 @@ public class C01_Runner_Overriding {
         //kus1.kanat();
         kus1.omur();
         //kus1.pence();
-
 
 
         C06_Hayvanlar kus2 = new C07_Kuslar();
@@ -92,9 +91,7 @@ public class C01_Runner_Overriding {
         hayvan1.solunum();
 
 
-
     }
-
 
 
 }
